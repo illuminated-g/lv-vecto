@@ -9,12 +9,16 @@
 		<Item Name="RequestReply Message Handler.lvclass" Type="LVClass" URL="../RequestReply Message Handler/RequestReply Message Handler.lvclass"/>
 		<Item Name="Simple TCP Handler.lvclass" Type="LVClass" URL="../Simple TCP Handler/Simple TCP Handler.lvclass"/>
 	</Item>
+	<Item Name="Walkthrough" Type="Folder">
+		<Item Name="1) Single Group.vi" Type="VI" URL="../1) Single Group.vi"/>
+		<Item Name="2) Group Publishing.vi" Type="VI" URL="../2) Group Publishing.vi"/>
+		<Item Name="3) Group Subscription.vi" Type="VI" URL="../3) Group Subscription.vi"/>
+		<Item Name="4) Request Reply.vi" Type="VI" URL="../4) Request Reply.vi"/>
+		<Item Name="5) Target Groups.vi" Type="VI" URL="../5) Target Groups.vi"/>
+		<Item Name="6) HTTP Info.vi" Type="VI" URL="../6) HTTP Info.vi"/>
+	</Item>
 	<Item Name="DiscoveryProtoTest.vi" Type="VI" URL="../DiscoveryProtoTest.vi"/>
-	<Item Name="Group Publishing.vi" Type="VI" URL="../Group Publishing.vi"/>
 	<Item Name="GroupDataProtoTest.vi" Type="VI" URL="../GroupDataProtoTest.vi"/>
-	<Item Name="HTTP Info.vi" Type="VI" URL="../HTTP Info.vi"/>
 	<Item Name="Map Lookup Test.vi" Type="VI" URL="../Map Lookup Test.vi"/>
-	<Item Name="Request Reply Test.vi" Type="VI" URL="../Request Reply Test.vi"/>
 	<Item Name="Simple TCP Test.vi" Type="VI" URL="../Simple TCP Test.vi"/>
-	<Item Name="Target Group Test.vi" Type="VI" URL="../Target Group Test.vi"/>
 </Library>
