@@ -45,6 +45,11 @@
 			<Item Name="TcpReply.lvlib" Type="Library" URL="../Vecto/proto/TcpReply/TcpReply.lvlib"/>
 			<Item Name="UdpPayload.lvlib" Type="Library" URL="../Vecto/proto/UdpPayload/UdpPayload.lvlib"/>
 		</Item>
+		<Item Name="Scratch Messages" Type="Folder">
+			<Item Name="messages" Type="Folder" URL="../VectoScratch/proto/messages">
+				<Property Name="NI.DISK" Type="Bool">true</Property>
+			</Item>
+		</Item>
 		<Item Name="vecto.ico" Type="Document" URL="../vecto.ico"/>
 		<Item Name="Vecto.lvlib" Type="Library" URL="../Vecto/Vecto.lvlib"/>
 		<Item Name="VectoConfig.lvlib" Type="Library" URL="../VectoConfig/VectoConfig.lvlib"/>
