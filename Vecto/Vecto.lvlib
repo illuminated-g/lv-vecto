@@ -25,6 +25,7 @@
 		<Item Name="Publish Config Response Group.ctl" Type="VI" URL="../Publish Config Response Group.ctl"/>
 		<Item Name="Publish Config Response.ctl" Type="VI" URL="../Publish Config Response.ctl"/>
 		<Item Name="Send Message Data.ctl" Type="VI" URL="../Send Message Data.ctl"/>
+		<Item Name="Subscribed Data.ctl" Type="VI" URL="../Subscribed Data.ctl"/>
 		<Item Name="Target Group.ctl" Type="VI" URL="../Target Group.ctl"/>
 		<Item Name="Task State.ctl" Type="VI" URL="../Task State.ctl"/>
 		<Item Name="Task Status.ctl" Type="VI" URL="../Task Status.ctl"/>
@@ -54,6 +55,7 @@
 	</Item>
 	<Item Name="Interfaces" Type="Folder">
 		<Item Name="EventLogHandler.lvclass" Type="LVClass" URL="../EventLogHandler/EventLogHandler.lvclass"/>
+		<Item Name="SubscribedDataHandler.lvclass" Type="LVClass" URL="../SubscribedDataHandler/SubscribedDataHandler.lvclass"/>
 		<Item Name="TCPConnectionHandler.lvclass" Type="LVClass" URL="../TCPConnectionHandler/TCPConnectionHandler.lvclass"/>
 		<Item Name="TCPMessageHandler.lvclass" Type="LVClass" URL="../TCPMessageHandler/TCPMessageHandler.lvclass"/>
 	</Item>
@@ -106,6 +108,7 @@
 	</Item>
 	<Item Name="Time" Type="Folder">
 		<Item Name="HRS Utility.vim" Type="VI" URL="../HRS Utility.vim"/>
+		<Item Name="microsec to sec.vi" Type="VI" URL="../microsec to sec.vi"/>
 		<Item Name="Timestamp ms.vi" Type="VI" URL="../Timestamp ms.vi"/>
 		<Item Name="Timestamp to us.vi" Type="VI" URL="../Timestamp to us.vi"/>
 	</Item>
