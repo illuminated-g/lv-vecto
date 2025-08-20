@@ -107,13 +107,14 @@
 		<Item Name="AsyncClassTemplate.lvclass" Type="LVClass" URL="../AsyncClassTemplate/AsyncClassTemplate.lvclass"/>
 	</Item>
 	<Item Name="Time" Type="Folder">
-		<Item Name="Dbl Timestamp to Unix ns.vi" Type="VI" URL="../Dbl Timestamp to Unix ns.vi"/>
+		<Item Name="Double to Unix ns.vi" Type="VI" URL="../Double to Unix ns.vi"/>
 		<Item Name="HRS Utility.vim" Type="VI" URL="../HRS Utility.vim"/>
 		<Item Name="microsec to sec.vi" Type="VI" URL="../microsec to sec.vi"/>
 		<Item Name="Timestamp ms.vi" Type="VI" URL="../Timestamp ms.vi"/>
 		<Item Name="Timestamp to Unix ns.vi" Type="VI" URL="../Timestamp to Unix ns.vi"/>
 		<Item Name="Timestamp to us.vi" Type="VI" URL="../Timestamp to us.vi"/>
+		<Item Name="Unix ns to Double.vi" Type="VI" URL="../Unix ns to Double.vi"/>
+		<Item Name="Unix ns to Timestamp.vi" Type="VI" URL="../Unix ns to Timestamp.vi"/>
 	</Item>
-	<Item Name="Unix ns to Double.vi" Type="VI" URL="../Unix ns to Double.vi"/>
 	<Item Name="Vecto.lvclass" Type="LVClass" URL="../Vecto/Vecto.lvclass"/>
 </Library>
