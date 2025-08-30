@@ -11,8 +11,8 @@ message UdpPayload {
     // payload count shared across tcp, udp, and http for source node
     fixed32 sequence = 4;
 
-    // ms unix epoch time for packet time
-    fixed64 timestamp = 5;
+    // ns unix epoch time for packet time
+    sfixed64 timestamp = 5;
 
     // payload message type for shared channels
     string type = 6;
