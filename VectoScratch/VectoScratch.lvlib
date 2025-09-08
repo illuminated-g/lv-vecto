@@ -21,4 +21,6 @@
 	<Item Name="GroupDataProtoTest.vi" Type="VI" URL="../GroupDataProtoTest.vi"/>
 	<Item Name="Map Lookup Test.vi" Type="VI" URL="../Map Lookup Test.vi"/>
 	<Item Name="Simple TCP Test.vi" Type="VI" URL="../Simple TCP Test.vi"/>
+	<Item Name="Test Server Restart.vi" Type="VI" URL="../Test Server Restart.vi"/>
+	<Item Name="Server Restart Client.vi" Type="VI" URL="../Server Restart Client.vi"/>
 </Library>

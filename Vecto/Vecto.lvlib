@@ -80,6 +80,9 @@
 		<Item Name="VectoInfoValue.lvclass" Type="LVClass" URL="../VectoInfoValue/VectoInfoValue.lvclass"/>
 	</Item>
 	<Item Name="Services" Type="Folder">
+		<Item Name="Events" Type="Folder">
+			<Item Name="LocalEventCollector.lvclass" Type="LVClass" URL="../LocalEventCollector/LocalEventCollector.lvclass"/>
+		</Item>
 		<Item Name="Utilities" Type="Folder">
 			<Item Name="Port for Service.vi" Type="VI" URL="../Port for Service.vi"/>
 		</Item>
