@@ -60,6 +60,10 @@
 		<Item Name="TCPConnectionHandler.lvclass" Type="LVClass" URL="../TCPConnectionHandler/TCPConnectionHandler.lvclass"/>
 		<Item Name="TCPMessageHandler.lvclass" Type="LVClass" URL="../TCPMessageHandler/TCPMessageHandler.lvclass"/>
 	</Item>
+	<Item Name="Messaging" Type="Folder">
+		<Item Name="TCPMessageAPI.lvclass" Type="LVClass" URL="../TCPMessageService/TCPMessageAPI.lvclass"/>
+		<Item Name="TCPMessaging.lvclass" Type="LVClass" URL="../TCPMessaging/TCPMessaging.lvclass"/>
+	</Item>
 	<Item Name="Packets" Type="Folder">
 		<Item Name="Encapsulate TCP Message.vi" Type="VI" URL="../Encapsulate TCP Message.vi"/>
 		<Item Name="Encapsulate TCP Payload.vi" Type="VI" URL="../Encapsulate TCP Payload.vi"/>
@@ -92,10 +96,6 @@
 		<Item Name="NodeStatus.lvclass" Type="LVClass" URL="../InfoService/NodeStatus.lvclass"/>
 		<Item Name="SequenceCountService.lvclass" Type="LVClass" URL="../SequenceCountService/SequenceCountService.lvclass"/>
 		<Item Name="VectoInfo.lvclass" Type="LVClass" URL="../VectoService/VectoInfo.lvclass"/>
-	</Item>
-	<Item Name="TCP" Type="Folder">
-		<Item Name="TCPMessageAPI.lvclass" Type="LVClass" URL="../TCPMessageService/TCPMessageAPI.lvclass"/>
-		<Item Name="TCPMessaging.lvclass" Type="LVClass" URL="../TCPMessaging/TCPMessaging.lvclass"/>
 	</Item>
 	<Item Name="Telemetry" Type="Folder">
 		<Item Name="Conversion" Type="Folder">

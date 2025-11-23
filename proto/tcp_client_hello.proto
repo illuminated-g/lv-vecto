@@ -8,4 +8,5 @@ message TcpClientHello {
     string app_version = 5;
     string config_version = 6;
     string config_hash = 7;
+    string node_alias = 8;
 }
