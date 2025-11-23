@@ -11,6 +11,7 @@
 		<Item Name="Comms Features.ctl" Type="VI" URL="../../Vecto/Comms Features.ctl"/>
 		<Item Name="Config Pair.ctl" Type="VI" URL="../../Vecto/Config Pair.ctl"/>
 		<Item Name="Discovery Info.ctl" Type="VI" URL="../../Vecto/Node Config/Discovery Info.ctl"/>
+		<Item Name="Endpoint.ctl" Type="VI" URL="../Endpoint.ctl"/>
 		<Item Name="Group Data Type.ctl" Type="VI" URL="../../Vecto/Group Data Type.ctl"/>
 		<Item Name="Group Info.ctl" Type="VI" URL="../../Vecto/Group Info.ctl"/>
 		<Item Name="HTTP Server Info.ctl" Type="VI" URL="../../Vecto/Node Config/HTTP Server Info.ctl"/>
