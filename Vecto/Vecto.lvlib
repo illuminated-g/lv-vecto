@@ -35,11 +35,11 @@
 		<Item Name="Vecto Info.ctl" Type="VI" URL="../Vecto Info.ctl"/>
 	</Item>
 	<Item Name="Groups" Type="Folder">
-		<Item Name="Channel.lvclass" Type="LVClass" URL="../Channel/Channel.lvclass"/>
+		<Item Name="Channel DBL.lvclass" Type="LVClass" URL="../Channel DBL/Channel DBL.lvclass"/>
+		<Item Name="Channel STR.lvclass" Type="LVClass" URL="../Channel STR/Channel STR.lvclass"/>
+		<Item Name="Group DBL.lvclass" Type="LVClass" URL="../Group DBL/Group DBL.lvclass"/>
+		<Item Name="Group STR.lvclass" Type="LVClass" URL="../Group STR/Group STR.lvclass"/>
 		<Item Name="Group.lvclass" Type="LVClass" URL="../Group/Group.lvclass"/>
-		<Item Name="GroupAbstract.lvclass" Type="LVClass" URL="../GroupAbstract/GroupAbstract.lvclass"/>
-		<Item Name="StringChannel.lvclass" Type="LVClass" URL="../StringChannel/StringChannel.lvclass"/>
-		<Item Name="StringGroup.lvclass" Type="LVClass" URL="../StringGroup/StringGroup.lvclass"/>
 	</Item>
 	<Item Name="HTTP" Type="Folder">
 		<Item Name="Controllers" Type="Folder">
