@@ -14,6 +14,7 @@
 	<Item Name="Data Types" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Add Remove Action.ctl" Type="VI" URL="../Add Remove Action.ctl"/>
+		<Item Name="Address Type.ctl" Type="VI" URL="../Address Type.ctl"/>
 		<Item Name="Channel Value.ctl" Type="VI" URL="../Channel Value.ctl"/>
 		<Item Name="Channel.ctl" Type="VI" URL="../Channel.ctl"/>
 		<Item Name="Connection Info.ctl" Type="VI" URL="../Connection Info.ctl"/>
@@ -63,6 +64,11 @@
 	<Item Name="Messaging" Type="Folder">
 		<Item Name="TCPMessageAPI.lvclass" Type="LVClass" URL="../TCPMessageService/TCPMessageAPI.lvclass"/>
 		<Item Name="TCPMessaging.lvclass" Type="LVClass" URL="../TCPMessaging/TCPMessaging.lvclass"/>
+	</Item>
+	<Item Name="Networking" Type="Folder">
+		<Item Name="Address Type.vi" Type="VI" URL="../Address Type.vi"/>
+		<Item Name="Resolve Address Type.vi" Type="VI" URL="../Resolve Address Type.vi"/>
+		<Item Name="Resolve IP.vi" Type="VI" URL="../Resolve IP.vi"/>
 	</Item>
 	<Item Name="Packets" Type="Folder">
 		<Item Name="Encapsulate TCP Message.vi" Type="VI" URL="../Encapsulate TCP Message.vi"/>
