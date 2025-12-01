@@ -127,5 +127,7 @@
 		<Item Name="Unix ns to Double Timestamp.vi" Type="VI" URL="../Unix ns to Double Timestamp.vi"/>
 		<Item Name="Unix ns to Timestamp.vi" Type="VI" URL="../Unix ns to Timestamp.vi"/>
 	</Item>
+	<Item Name="Double Timestamp to Unix ns (Array).vi" Type="VI" URL="../Double Timestamp to Unix ns (Array).vi"/>
+	<Item Name="Double to Relative ns (Array).vi" Type="VI" URL="../Double to Relative ns (Array).vi"/>
 	<Item Name="Vecto.lvclass" Type="LVClass" URL="../Vecto/Vecto.lvclass"/>
 </Library>
