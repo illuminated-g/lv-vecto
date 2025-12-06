@@ -36,8 +36,10 @@
 		<Item Name="Vecto Info.ctl" Type="VI" URL="../Vecto Info.ctl"/>
 	</Item>
 	<Item Name="Groups" Type="Folder">
+		<Item Name="Channel BOOL.lvclass" Type="LVClass" URL="../Channel BOOL/Channel BOOL.lvclass"/>
 		<Item Name="Channel DBL.lvclass" Type="LVClass" URL="../Channel DBL/Channel DBL.lvclass"/>
 		<Item Name="Channel STR.lvclass" Type="LVClass" URL="../Channel STR/Channel STR.lvclass"/>
+		<Item Name="Group BOOL.lvclass" Type="LVClass" URL="../Group BOOL/Group BOOL.lvclass"/>
 		<Item Name="Group DBL.lvclass" Type="LVClass" URL="../Group DBL/Group DBL.lvclass"/>
 		<Item Name="Group STR.lvclass" Type="LVClass" URL="../Group STR/Group STR.lvclass"/>
 		<Item Name="Group.lvclass" Type="LVClass" URL="../Group/Group.lvclass"/>
@@ -79,6 +81,7 @@
 		<Item Name="Unwrap UDP Payload.vi" Type="VI" URL="../Unwrap UDP Payload.vi"/>
 	</Item>
 	<Item Name="Promise Values" Type="Folder">
+		<Item Name="BoolChannelValue.lvclass" Type="LVClass" URL="../BoolChannelValue/BoolChannelValue.lvclass"/>
 		<Item Name="DoubleChannelValue.lvclass" Type="LVClass" URL="../ChannelValue/DoubleChannelValue.lvclass"/>
 		<Item Name="GroupAbstractValue.lvclass" Type="LVClass" URL="../GroupValue/GroupAbstractValue.lvclass"/>
 		<Item Name="GroupArrayValue.lvclass" Type="LVClass" URL="../GroupArrayValue/GroupArrayValue.lvclass"/>
