@@ -124,6 +124,7 @@
 		<Item Name="Double to Relative ns.vi" Type="VI" URL="../Double to Relative ns.vi"/>
 		<Item Name="HRS Utility.vim" Type="VI" URL="../HRS Utility.vim"/>
 		<Item Name="microsec to sec.vi" Type="VI" URL="../microsec to sec.vi"/>
+		<Item Name="Relative ns to Double Seconds.vi" Type="VI" URL="../Relative ns to Double Seconds.vi"/>
 		<Item Name="Timestamp ms.vi" Type="VI" URL="../Timestamp ms.vi"/>
 		<Item Name="Timestamp to Unix ns.vi" Type="VI" URL="../Timestamp to Unix ns.vi"/>
 		<Item Name="Timestamp to us.vi" Type="VI" URL="../Timestamp to us.vi"/>
