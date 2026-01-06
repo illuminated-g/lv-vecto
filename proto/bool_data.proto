@@ -5,4 +5,5 @@ message BoolData {
     int64 data_timestamp = 2;
     repeated bool scaled_data = 3;
     repeated bool raw_data = 4;
+    uint32 names_crc = 5;
 }

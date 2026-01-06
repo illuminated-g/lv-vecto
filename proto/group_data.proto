@@ -6,4 +6,5 @@ message GroupData {
     int64 data_timestamp = 2;
     repeated double scaled_data = 3;
     repeated double raw_data = 4;
+    uint32 names_crc = 5;
 }

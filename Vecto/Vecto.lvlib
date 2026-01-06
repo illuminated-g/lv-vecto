@@ -11,6 +11,9 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="VectoTCPConnectionHandler.lvclass" Type="LVClass" URL="../VectoTCPConnectionHandler/VectoTCPConnectionHandler.lvclass"/>
 	</Item>
+	<Item Name="CRC" Type="Folder">
+		<Item Name="CRC32-MPEG.vi" Type="VI" URL="../CRC32-MPEG.vi"/>
+	</Item>
 	<Item Name="Data Types" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Add Remove Action.ctl" Type="VI" URL="../Add Remove Action.ctl"/>
@@ -120,7 +123,9 @@
 		<Item Name="AsyncClassTemplate.lvclass" Type="LVClass" URL="../AsyncClassTemplate/AsyncClassTemplate.lvclass"/>
 	</Item>
 	<Item Name="Time" Type="Folder">
+		<Item Name="Double Timestamp to Unix ns (Array).vi" Type="VI" URL="../Double Timestamp to Unix ns (Array).vi"/>
 		<Item Name="Double Timestamp to Unix ns.vi" Type="VI" URL="../Double Timestamp to Unix ns.vi"/>
+		<Item Name="Double to Relative ns (Array).vi" Type="VI" URL="../Double to Relative ns (Array).vi"/>
 		<Item Name="Double to Relative ns.vi" Type="VI" URL="../Double to Relative ns.vi"/>
 		<Item Name="HRS Utility.vim" Type="VI" URL="../HRS Utility.vim"/>
 		<Item Name="microsec to sec.vi" Type="VI" URL="../microsec to sec.vi"/>
@@ -131,7 +136,5 @@
 		<Item Name="Unix ns to Double Timestamp.vi" Type="VI" URL="../Unix ns to Double Timestamp.vi"/>
 		<Item Name="Unix ns to Timestamp.vi" Type="VI" URL="../Unix ns to Timestamp.vi"/>
 	</Item>
-	<Item Name="Double Timestamp to Unix ns (Array).vi" Type="VI" URL="../Double Timestamp to Unix ns (Array).vi"/>
-	<Item Name="Double to Relative ns (Array).vi" Type="VI" URL="../Double to Relative ns (Array).vi"/>
 	<Item Name="Vecto.lvclass" Type="LVClass" URL="../Vecto/Vecto.lvclass"/>
 </Library>
