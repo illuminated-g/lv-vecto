@@ -16,6 +16,7 @@
 		<Item Name="Group Info.ctl" Type="VI" URL="../../Vecto/Group Info.ctl"/>
 		<Item Name="HTTP Server Info.ctl" Type="VI" URL="../../Vecto/Node Config/HTTP Server Info.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../../Vecto/Node Config/Node Info.ctl"/>
+		<Item Name="Node Name ID.ctl" Type="VI" URL="../../Vecto/Node Name ID.ctl"/>
 		<Item Name="Publish Config.ctl" Type="VI" URL="../../Vecto/Publish Config.ctl"/>
 		<Item Name="Target Group Info.ctl" Type="VI" URL="../Target Group Info.ctl"/>
 		<Item Name="Task Info.ctl" Type="VI" URL="../../Vecto/Task Info.ctl"/>

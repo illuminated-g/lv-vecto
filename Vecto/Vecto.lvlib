@@ -26,7 +26,6 @@
 		<Item Name="Event Level.ctl" Type="VI" URL="../Event Level.ctl"/>
 		<Item Name="Init Implementations.ctl" Type="VI" URL="../Init Implementations.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
-		<Item Name="Node Name ID.ctl" Type="VI" URL="../Node Name ID.ctl"/>
 		<Item Name="Publish Config Response Group.ctl" Type="VI" URL="../Publish Config Response Group.ctl"/>
 		<Item Name="Publish Config Response.ctl" Type="VI" URL="../Publish Config Response.ctl"/>
 		<Item Name="Send Message Data.ctl" Type="VI" URL="../Send Message Data.ctl"/>
