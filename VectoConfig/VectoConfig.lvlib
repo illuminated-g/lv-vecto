@@ -21,6 +21,8 @@
 		<Item Name="Target Group Info.ctl" Type="VI" URL="../Target Group Info.ctl"/>
 		<Item Name="Task Info.ctl" Type="VI" URL="../../Vecto/Task Info.ctl"/>
 		<Item Name="TCP Messaging Info.ctl" Type="VI" URL="../../Vecto/Node Config/TCP Messaging Info.ctl"/>
+		<Item Name="Telemetry Config.ctl" Type="VI" URL="../Telemetry Config.ctl"/>
+		<Item Name="Telemetry Routing.ctl" Type="VI" URL="../Telemetry Routing.ctl"/>
 	</Item>
 	<Item Name="Channel Config.lvclass" Type="LVClass" URL="../../Vecto/Channel Config/Channel Config.lvclass"/>
 	<Item Name="Group Config.lvclass" Type="LVClass" URL="../../Vecto/Group Config/Group Config.lvclass"/>
