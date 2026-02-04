@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message StringTest {
-    string id = 1;
-    repeated string data = 2;
-}
