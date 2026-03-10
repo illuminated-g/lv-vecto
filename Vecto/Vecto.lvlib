@@ -115,6 +115,9 @@
 			<Item Name="Double to Bool.vi" Type="VI" URL="../Double to Bool.vi"/>
 			<Item Name="String to Bool.vi" Type="VI" URL="../String to Bool.vi"/>
 		</Item>
+		<Item Name="Publishers" Type="Folder">
+			<Item Name="TelemetryPublisher.lvclass" Type="LVClass" URL="../TelemetryPublisher/TelemetryPublisher.lvclass"/>
+		</Item>
 		<Item Name="ChannelService.lvclass" Type="LVClass" URL="../ChannelService/ChannelService.lvclass"/>
 		<Item Name="RemoteDataService.lvclass" Type="LVClass" URL="../RemoteDataService/RemoteDataService.lvclass"/>
 	</Item>
