@@ -43,6 +43,15 @@
 			</Item>
 		</Item>
 		<Item Name="Deprecated" Type="Folder">
+			<Item Name="_Resolve IP.vi" Type="VI" URL="../../_Resolve IP.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!1!#!!-*:8*S&lt;X)A&lt;X6U!"&amp;!"Q!,64-S)%&amp;E:(*F=X-!7A$R!!!!!!!!!!),6G6D&gt;']O&lt;(:M;7)1172E=G6T=S"5?8"F,G.U&lt;!!V1"9!"!&gt;6&lt;GNO&lt;X&gt;O#&amp;.Q:7.J:GFD"F.V9GZF&gt;!."&lt;HE!$%&amp;E:(*F=X-A6(FQ:1!!)%"1!!-!!1!#!!-4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51$$`````#E&amp;E:(*F=X-A37Y!!&amp;1!]!!-!!!!!!!%!!5!!!!'!!!!!!!!!!!!"Q!)!Q!!?!!!!!!!!!!!!!!.#A!!#1!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!!!%!#1!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777218</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">536592</Property>
+			</Item>
 			<Item Name="Resolve Address Type.vi" Type="VI" URL="../../Resolve Address Type.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;*!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"&amp;!"Q!,64-S)%&amp;E:(*F=X-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!21!-!#V.V9GZF&gt;#"#;82T!""!-0````](172E=G6T=Q";!0%!!!!!!!!!!AN7:7.U&lt;SZM&gt;GRJ9B"":'2S:8.T)&amp;2Z='5O9X2M!$6!&amp;A!%"V6O;WZP&gt;WY)5X"F9WFG;7-'5X6C&lt;G6U!U&amp;O?1!-172E=G6T=S"5?8"F!!"5!0!!$!!$!!1!"1!%!!1!"!!%!!1!"A!(!!A!#1-!!(A!!!U)!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%!!!!!!"!!I!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

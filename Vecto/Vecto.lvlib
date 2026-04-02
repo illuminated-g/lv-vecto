@@ -72,7 +72,6 @@
 	<Item Name="Networking" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="IP Resolver.lvclass" Type="LVClass" URL="../IP Resolver/IP Resolver.lvclass"/>
-		<Item Name="Resolve IP.vi" Type="VI" URL="../Resolve IP.vi"/>
 	</Item>
 	<Item Name="Packets" Type="Folder">
 		<Item Name="Encapsulate TCP Message.vi" Type="VI" URL="../Encapsulate TCP Message.vi"/>
@@ -101,7 +100,6 @@
 		<Item Name="Utilities" Type="Folder">
 			<Item Name="Port for Service.vi" Type="VI" URL="../Port for Service.vi"/>
 		</Item>
-		<Item Name="DiscoveryService.lvclass" Type="LVClass" URL="../DiscoveryService/DiscoveryService.lvclass"/>
 		<Item Name="EventLoggingService.lvclass" Type="LVClass" URL="../EventLoggingService/EventLoggingService.lvclass"/>
 		<Item Name="MetricsService.lvclass" Type="LVClass" URL="../MetricsService/MetricsService.lvclass"/>
 		<Item Name="NodeStatus.lvclass" Type="LVClass" URL="../InfoService/NodeStatus.lvclass"/>
