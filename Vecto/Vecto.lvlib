@@ -70,8 +70,8 @@
 		<Item Name="TCPMessaging.lvclass" Type="LVClass" URL="../TCPMessaging/TCPMessaging.lvclass"/>
 	</Item>
 	<Item Name="Networking" Type="Folder">
-		<Item Name="Address Type.vi" Type="VI" URL="../Address Type.vi"/>
-		<Item Name="Resolve Address Type.vi" Type="VI" URL="../Resolve Address Type.vi"/>
+		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="IP Resolver.lvclass" Type="LVClass" URL="../IP Resolver/IP Resolver.lvclass"/>
 		<Item Name="Resolve IP.vi" Type="VI" URL="../Resolve IP.vi"/>
 	</Item>
 	<Item Name="Packets" Type="Folder">
