@@ -15,7 +15,6 @@
 		<Item Name="3) Group Subscription.vi" Type="VI" URL="../3) Group Subscription.vi"/>
 		<Item Name="4) Request Reply.vi" Type="VI" URL="../4) Request Reply.vi"/>
 		<Item Name="5) Target Groups.vi" Type="VI" URL="../5) Target Groups.vi"/>
-		<Item Name="6) HTTP Info.vi" Type="VI" URL="../6) HTTP Info.vi"/>
 	</Item>
 	<Item Name="DiscoveryProtoTest.vi" Type="VI" URL="../DiscoveryProtoTest.vi"/>
 	<Item Name="GroupDataProtoTest.vi" Type="VI" URL="../GroupDataProtoTest.vi"/>
