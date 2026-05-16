@@ -20,6 +20,7 @@
 		<Item Name="Address Type.ctl" Type="VI" URL="../Address Type.ctl"/>
 		<Item Name="Channel Value.ctl" Type="VI" URL="../Channel Value.ctl"/>
 		<Item Name="Channel.ctl" Type="VI" URL="../Channel.ctl"/>
+		<Item Name="Connected Status.ctl" Type="VI" URL="../Connected Status.ctl"/>
 		<Item Name="Connection Info.ctl" Type="VI" URL="../Connection Info.ctl"/>
 		<Item Name="Connection State.ctl" Type="VI" URL="../Connection State.ctl"/>
 		<Item Name="Connection Type.ctl" Type="VI" URL="../Connection Type.ctl"/>
